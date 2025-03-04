@@ -1,1 +1,2 @@
 Hello wow I'm a file. Test 2 
+This is the second line of the file
